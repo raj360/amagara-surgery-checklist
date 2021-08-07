@@ -16,7 +16,7 @@ export default {
             ]
         },
         {
-            id: 'dashboard',
+            id: 'sample-route',
             title: 'Sample route',
             type: 'group',
             icon: 'feather icon-power',
