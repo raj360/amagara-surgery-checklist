@@ -16,6 +16,21 @@ export default {
             ]
         },
         {
+            id: 'dashboard',
+            title: 'Sample route',
+            type: 'group',
+            icon: 'feather icon-power',
+            children: [
+                {
+                    id: 'dashboard',
+                    title: 'Sample route',
+                    type: 'item',
+                    url: '/sample/route',
+                    icon: 'feather icon-power',
+                }
+            ]
+        },
+        {
             id: 'pages',
             title: 'Pages',
             type: 'group',
@@ -44,14 +59,6 @@ export default {
                             breadcrumbs: false
                         }
                     ]
-                },
-                {
-                    id: 'disabled-menu',
-                    title: 'Disabled Menu',
-                    type: 'item',
-                    url: '#',
-                    classes: 'nav-item disabled',
-                    icon: 'feather icon-power'
                 },
             ]
         }
