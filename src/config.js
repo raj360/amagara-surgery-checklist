@@ -1,7 +1,7 @@
 export default {
     defaultPath: '/home',
     basename: '/Amagara-surgery-checklist/',
-    layout: 'horizontal',
+    layout: 'verticle',
     preLayout: null,
     collapseMenu: false,
     layoutType: 'menu-light',
