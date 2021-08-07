@@ -3,6 +3,7 @@ import {connect} from 'react-redux';
 
 import NavRight
     from "./NavRight";
+    import NavLeft from "./NavLeft"
 import Aux
     from "../../../../hoc/_Aux";
 import DEMO
@@ -21,7 +22,6 @@ class NavBar extends Component {
         let toggleClass = ['mobile-menu'];
         if (this.props.collapseMenu) {
             toggleClass = [...toggleClass, 'on'];
-
 
         }
 
@@ -51,7 +51,7 @@ class NavBar extends Component {
                         className="feather icon-more-horizontal"/></a>
                     <div
                         className="collapse navbar-collapse">
-                        <NavRight/>
+                        <NavLeft/>
                     </div>
                 </header>
             </Aux>

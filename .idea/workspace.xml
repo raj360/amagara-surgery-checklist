@@ -2,163 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36c550e6-eb8a-495e-b90a-e4f19390bf46" name="Default Changelist" comment="Initial setup of the Amagara project">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/BootstrapBay_datta-able-free-reactjs-admin-dashboard-template-BFD950F.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/CodeReadingNote.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/composerJson.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/gatto.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/graphql-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/datta/datta-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/datta/fonts/pct.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/datta/fonts/pct.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/datta/fonts/pct.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/datta/fonts/pct.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/feather/fonts/feather.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/feather/fonts/feather.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/feather/fonts/feather.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/feather/fonts/feather.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/fonts/feather/icon-font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/components/MainCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/components/UcFirst.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/Breadcrumb/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/NavLeft/NavSearch/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/NavLeft/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/NavRight/ChatList/Friends/Chat/Messages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/NavRight/ChatList/Friends/Chat/chat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/NavRight/ChatList/Friends/Chat/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/NavRight/ChatList/Friends/Friend/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/NavRight/ChatList/Friends/friends.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/NavRight/ChatList/Friends/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/NavRight/ChatList/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/NavRight/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/Navigation/NavContent/NavBadge/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/Navigation/NavContent/NavCollapse/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/Navigation/NavContent/NavGroup/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/Navigation/NavContent/NavIcon/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/Navigation/NavContent/NavItem/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/Navigation/NavContent/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/Navigation/NavLogo/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/Navigation/OutsideClick/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/Navigation/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/app.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/Loader/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App/layout/ScrollToTop/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Authentication/SignIn/SignIn1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Authentication/SignUp/SignUp1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Charts/Nvd3Chart/BarDiscreteChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Charts/Nvd3Chart/LineChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Charts/Nvd3Chart/MultiBarChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Charts/Nvd3Chart/PieBasicChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Charts/Nvd3Chart/PieDonutChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Charts/Nvd3Chart/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Dashboard/Default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Forms/FormsElements.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Maps/GoogleMap/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Other/Docs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Other/SamplePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/Tables/BootstrapTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/UIElements/Basic/Badges.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/UIElements/Basic/BreadcrumbPagination.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/UIElements/Basic/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/UIElements/Basic/Collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/UIElements/Basic/TabsPills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo/UIElements/Basic/Typography.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/complete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/logo-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user/avatar-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user/avatar-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user/avatar-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user/avatar-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user/avatar-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user/lock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user/user-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user/user-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/dashborad-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/dashborad-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/dashborad-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/dashborad-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/dashborad-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/emoticon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/master-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/master-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/rupay-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/rupay-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/shape1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/shape2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/shape3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/shape4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/shape5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/shape6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/visa-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/widget/visa-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/_general.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/_generic.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/menu/_menu-lite.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/mixins/_function.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/other/_chart.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/other/_chat.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/other/_icon-lauouts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/other/_prism.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/other/_switches.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/pages/gallery.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_authentication.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_breadcrumb-pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_data-tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_labels-badges.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_radiobox-checkbox.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/theme-elements/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/third-party/_css-animator.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/third-party/_google-map.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/third-party/_ngx-perfect-scrollbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/third-party/_react-full-screen.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/third-party/_third-party.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/third-party/react-bootstrap/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/third-party/react-bootstrap/react-bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/partials/widget/_widget.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/_Aux/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/menu-items.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/constant.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/layout/AdminLayout/Breadcrumb/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/Breadcrumb/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App/layout/AdminLayout/NavBar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo/Authentication/SignUp/SignUp1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo/Authentication/SignUp/SignUp1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/route.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +118,8 @@
       <workItem from="1603316292620" duration="6586000" />
       <workItem from="1603391582757" duration="453000" />
       <workItem from="1604242722815" duration="290000" />
-      <workItem from="1604243949614" duration="33058000" />
+      <workItem from="1604243949614" duration="33712000" />
+      <workItem from="1605415615410" duration="4571000" />
     </task>
     <servers />
   </component>
@@ -297,30 +146,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="108" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604338058188" />
-    <state width="1385" height="287" key="GridCell.Tab.0.bottom" timestamp="1604338197112">
+    <state width="1385" height="266" key="GridCell.Tab.0.bottom" timestamp="1605427198620">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1385" height="287" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604338197112" />
-    <state width="1385" height="-15" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604245992042" />
-    <state width="1385" height="287" key="GridCell.Tab.0.center" timestamp="1604338197106">
+    <state width="1385" height="266" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605427198620" />
+    <state width="1385" height="266" key="GridCell.Tab.0.center" timestamp="1605427198617">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1385" height="287" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604338197106" />
-    <state width="1385" height="-15" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604245992042" />
-    <state width="1385" height="287" key="GridCell.Tab.0.left" timestamp="1604338197104">
+    <state width="1385" height="266" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605427198617" />
+    <state width="1385" height="266" key="GridCell.Tab.0.left" timestamp="1605427198615">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1385" height="287" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604338197104" />
-    <state width="1385" height="-15" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604245992041" />
-    <state width="1385" height="287" key="GridCell.Tab.0.right" timestamp="1604338197109">
+    <state width="1385" height="266" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605427198615" />
+    <state width="1385" height="266" key="GridCell.Tab.0.right" timestamp="1605427198618">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1385" height="287" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604338197109" />
-    <state width="1385" height="-15" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604245992042" />
+    <state width="1385" height="266" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605427198618" />
     <state x="196" y="3" key="SettingsEditor" timestamp="1603391438933">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="196" y="3" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1603391438933" />
+    <state width="625" height="641" key="SwitcherDM" timestamp="1605418815709">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="625" height="641" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1605418815709" />
     <state x="301" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1604245870409">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

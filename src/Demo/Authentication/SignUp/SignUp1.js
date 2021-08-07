@@ -10,8 +10,8 @@ import Breadcrumb
 import DEMO
     from "../../../store/constant";
 
-class SignUp1 extends React.Component {
-    render() {
+const  SignUp1 = () => {
+
         return (
             <Aux>
                 <Breadcrumb/>
@@ -81,7 +81,7 @@ class SignUp1 extends React.Component {
                                     className="btn btn-primary shadow-2 mb-4">Sign
                                     up
                                 </button>
-                                <p className="mb-0 text-muted">Allready
+                                <p className="mb-0 text-muted">Already
                                     have
                                     an
                                     account? <NavLink
@@ -93,7 +93,7 @@ class SignUp1 extends React.Component {
                 </div>
             </Aux>
         );
-    }
-}
+
+};
 
 export default SignUp1;
